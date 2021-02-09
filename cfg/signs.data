@@ -1,0 +1,6 @@
+classes= 41
+train = ~/catkin_ws/src/darknet/project_nn/data_folder/train.txt
+valid = ~/catkin_ws/src/darknet/project_nn/data_folder/valid.txt
+names = ~/catkin_ws/src/darknet/data/sign.names
+backup = sign_backup
+

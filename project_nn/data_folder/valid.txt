@@ -1,0 +1,2 @@
+/home/adithya/catkin_ws/src/project_nn/data_folder/validset/A23.jpg
+/home/adithya/catkin_ws/src/project_nn/data_folder/validset/B9.jpg

@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+ls ~/catkin_ws/src/project_nn/data_folder/trainset/*.jpg > ~/catkin_ws/src/project_nn/data_folder/train.txt
+ls ~/catkin_ws/src/project_nn/data_folder/validset/*.jpg > ~/catkin_ws/src/project_nn/data_folder/valid.txt
